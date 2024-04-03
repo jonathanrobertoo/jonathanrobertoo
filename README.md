@@ -6,14 +6,14 @@
 - 📫 How to reach me: jonathan.995@hotmail.com
 
 ### Facts about me ⚡
-  - I'm marriaged and love my wife
-  - I'm animal lover and love my pets: 4 dogs and 5 cats
-  - I'm going to be a father soon
-  - I'm crazy about music and I play some instruments
-  - I'm on a career transition
-  - I'm a football lover
-  - I'm a gym lover and workout every single day - or almost
-  - I'm a food lover of a lot of kinds
+  - I'm married and love my wife 💍
+  - I'm animal lover and love my pets: 4 dogs and 5 cats 🐾
+  - I'm going to be a father soon 🍼
+  - I'm crazy about music and I play some instruments 🎵
+  - I'm on a career transition 👨‍💻
+  - I'm a football lover ⚽
+  - I'm a gym lover and workout every single day - or almost 💪🏻
+  - I'm a food lover of a lot of kinds 🍔
 
  <div>
    <a href="https://github.com/jonathanrobertoo">
