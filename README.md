@@ -1,6 +1,7 @@
 ## Hello! Welcome to my Github profile. 😁
 
 - 🔭 I’m currently working as a development intern on @NxCd
+- 🎓 I'm graduate as a Data Scientist
 - 🌱 I’m currently learning Js, Ts, MongoDB, Docker
 - 💬 I'm a very curious person who love to learning, not only development, but also a lot of knowledge areas
 - 📫 How to reach me: jonathan.995@hotmail.com
@@ -14,6 +15,8 @@
   - I'm a football lover ⚽
   - I'm a gym lover and workout every single day - or almost 💪🏻
   - I'm a food lover of a lot of kinds 🍔
+  - I born in São Paulo, now I'm living in Atibaia 🏡
+  - I'm a portughese speaker and I'm learning italian, spanish and english 🌎
 
  <div>
    <a href="https://github.com/jonathanrobertoo">
@@ -24,6 +27,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
