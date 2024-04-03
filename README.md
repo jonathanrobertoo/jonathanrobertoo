@@ -1,7 +1,7 @@
 ## Hello! Welcome to my Github profile. 😁
 
 - 🔭 I’m currently working as a development intern on @NxCd
-- 🎓 I'm graduate as a Data Scientist
+- 🎓 I'm graduate as a Data Scientist by UNIVESP
 - 🌱 I’m currently learning Js, Ts, MongoDB, Docker
 - 💬 I'm a very curious person who love to learning, not only development, but also a lot of knowledge areas
 - 📫 How to reach me: jonathan.995@hotmail.com
