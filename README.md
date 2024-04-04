@@ -1,6 +1,13 @@
-## Hello! Welcome to my Github profile. 😁
+## Welcome to my Github profile. 😁
 
- ### Development skills   
+### About me
+
+- 🔭 Currently working as a development intern on @NxCd
+- 🎓 Graduate as a Data Scientist by UNIVESP
+- 🌱 A very curious person who loves to learning and knowing everything about everything
+- 📫 How to reach me: jonathan.995@hotmail.com
+- Atibaia, SP, Brazil 📍
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -13,38 +20,14 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />    
 </div>
 
-### Myself
-
-- 🔭 I’m currently working as a development intern on @NxCd
-- 🎓 I'm graduate as a Data Scientist by UNIVESP
-- 🌱 I’m currently learning Js, Ts, MongoDB, Docker
-- 💬 I'm a very curious person who loves to learning and knowing everything about everything
-- 📫 How to reach me: jonathan.995@hotmail.com
-
-### Facts about me ⚡
-  - Husband 💍
-  - Pet's father 🐾
-  - Baby father soon 🍼
-  - Crazy about music 🎵
-  - On a career transition 👨‍💻
-  - Football fan ⚽
-  - Gym enthusiastic 💪🏻
-  - Food lover 🍔
-  - Born in São Paulo 📍
-  - Currently living in Atibaia 🏡
-  - Portughese, english, spanish and italian speaker 🌎
-
+<br>
  <div>
    <a href="https://github.com/jonathanrobertoo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanrobertoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrobertoo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
-
-
  
-<br>
- 
-### How to find me in another plataforms bellow:
+### You can find me on others plataforms bellow:
  
 <div> 
   <a href="https://www.youtube.com/channel/UCbryYzadt5fFlEoDNZLjCRw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
