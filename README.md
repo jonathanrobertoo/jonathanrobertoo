@@ -4,7 +4,7 @@
 
 - 🌱 A very curious person who loves to learning and knowing everything about everything
 - 🔭 Currently working as a development intern on @NxCd
-- - 📫 How to reach me: jonathan.995@hotmail.com
+- 📫 How to reach me: jonathan.995@hotmail.com
 - 🎓 Graduated as a Data Scientist by UNIVESP
 - 📍 Atibaia, SP, Brazil 
 
