@@ -2,11 +2,11 @@
 
 ### About me 🔍
 
-- 🌱 A very curious person who loves to learning and knowing everything about everything
-- 🔭 Currently working as a development intern on @NxCd
-- 📫 How to reach me: jonathan.995@hotmail.com
-- 🎓 Graduated as a Data Scientist by UNIVESP
-- 📍 Atibaia, SP, Brazil 
+- A very curious person who loves to learning and knowing everything about everything 🌱
+- Currently working as a development intern on @NxCd 🔭
+- How to reach me: jonathan.995@hotmail.com 📫
+- Graduated as a Data Scientist by UNIVESP 🎓
+- Atibaia, SP, Brazil 📍
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
