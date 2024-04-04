@@ -1,6 +1,6 @@
-## Welcome to my Github profile. 😁
+## Welcome to my Github profile ⚡
 
-### About me
+### About me 🔍
 
 - 🔭 Currently working as a development intern on @NxCd
 - 🎓 Graduated as a Data Scientist by UNIVESP
@@ -27,7 +27,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrobertoo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
  
-### You can find me on others plataforms bellow:
+### You can find me on others plataforms bellow 🌐
  
 <div> 
   <a href="https://www.youtube.com/channel/UCbryYzadt5fFlEoDNZLjCRw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
