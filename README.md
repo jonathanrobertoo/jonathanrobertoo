@@ -6,7 +6,7 @@
 - 🎓 Graduated as a Data Scientist by UNIVESP
 - 🌱 A very curious person who loves to learning and knowing everything about everything
 - 📫 How to reach me: jonathan.995@hotmail.com
-- Atibaia, SP, Brazil 📍
+- 📍 Atibaia, SP, Brazil 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
