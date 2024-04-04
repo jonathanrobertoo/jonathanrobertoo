@@ -3,7 +3,7 @@
 ### About me
 
 - 🔭 Currently working as a development intern on @NxCd
-- 🎓 Graduate as a Data Scientist by UNIVESP
+- 🎓 Graduated as a Data Scientist by UNIVESP
 - 🌱 A very curious person who loves to learning and knowing everything about everything
 - 📫 How to reach me: jonathan.995@hotmail.com
 - Atibaia, SP, Brazil 📍
