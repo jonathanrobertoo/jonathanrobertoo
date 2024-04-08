@@ -1,7 +1,9 @@
 ## Jonathan Roberto 📌
-⤷ I'm very curious person who loves to learning and knowing everything about everything 🌱
+⤷ Discoverying everything about everything 🔍
 
-### About me 🔍
+⤷ Enjoying the process 🌱
+
+### About me 
 
 - Graduated as a Data Scientist by UNIVESP 🎓
 - How to reach me: jonathan.995@hotmail.com 📫
