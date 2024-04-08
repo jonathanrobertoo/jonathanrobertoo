@@ -1,13 +1,13 @@
 ## Jonathan Roberto 📌
-⤷ Discoverying everything about everything 🔍
+⤷ Discoverying everything about everything 🔭
 
 ⤷ Enjoying the process 🌱
 
-### About me 
+### About me 🔍
 
 - Graduated as a Data Scientist by UNIVESP 🎓
 - How to reach me: jonathan.995@hotmail.com 📫
-- Currently working as a development intern on @nxcd 🔭
+- Currently working as a development intern on @nxcd ⚙️
 
 <div style="display: inline_block"><br>
   
