@@ -1,7 +1,6 @@
-## Jonathan Roberto 📌
-⤷ Discoverying everything about everything 🔭
+## Jonathan Roberto 🔭
 
-⤷ Enjoying the process 🌱
+⤷ Enjoying the discoverying process 🌱
 
 ### About me 🔍
 
