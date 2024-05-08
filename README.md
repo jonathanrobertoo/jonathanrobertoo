@@ -6,7 +6,6 @@
 
 - Graduated as a Data Scientist by UNIVESP 🎓
 - How to reach me: jonathan.995@hotmail.com 📫
-- Currently working as a development intern on @nxcd ⚙️
 
 <div style="display: inline_block"><br>
   
@@ -32,7 +31,7 @@
 <br>
  <div>
    <a href="https://github.com/jonathanrobertoo">
-<!--    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanrobertoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanrobertoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrobertoo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
  
